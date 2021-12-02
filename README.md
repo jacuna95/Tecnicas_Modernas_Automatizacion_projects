@@ -1,5 +1,5 @@
 
-# Tarea 2 Técnicas Modernas de Automatización 
+# Técnicas Modernas de Automatización 
 
 José Ignacio Acuña Sánchez
 
